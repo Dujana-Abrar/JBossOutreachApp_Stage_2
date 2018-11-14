@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F50707</color>
+    <color name="colorPrimaryDark">#00574b</color>
+    <color name="colorAccent">#0f4fbe</color>
+    <color name="NameRepo">#000000</color>
+</resources>

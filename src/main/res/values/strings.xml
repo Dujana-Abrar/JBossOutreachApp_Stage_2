@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">"JBoss Outreach App"</string>
+    <string name="Button">Get Started!</string>
+    <string name="JBoss">Welcome to the JBoss Outreach.</string>
+    <string name="JBoss_intro">Here you will find list of different repositories</string>
+    <string name="ContentDescipt">Logo</string>
+    <string name="Contributors">Contributors</string>
+    <string name="Heading1">Repositories</string>
+    <string name="Heading2">Contributors</string>
+</resources>
